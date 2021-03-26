@@ -16,6 +16,6 @@
 ## And lastly, some nice footer
 ![](https://imgur.com/6X21MGR.png)
 
-// To access data by REST api entry point is /
-// To view all users in gratitude list you should access /gratitude-list
-// To add user you should do a POST request to /donate/add
+#### *To access data by REST api entry point is /*
+#### *To view all users in gratitude list you should access /gratitude-list*
+#### *To add user you should do a POST request to /donate/add*
