@@ -4,6 +4,7 @@
 ## Developed on Bootstrap, so it's responsive.
 ### Here is Navbar
 ![Image of Navbar](https://imgur.com/4YG0TaM.png)
+# Home page
 ![](https://imgur.com/XDFTUBg.jpg)
 # Here is list of endangered animals
 ![](https://imgur.com/HmNe8nm.jpg)
